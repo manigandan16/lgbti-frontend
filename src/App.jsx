@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SurveyPhase1 from "../pages/Survey";
-import MainPage from "../pages/mainPage";
+import MainPage from "../pages/MainPage";
 import Login from "../pages/Login";
 import "./index.css";
 import "./custom.css";
